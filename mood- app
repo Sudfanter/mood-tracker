@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mood Tracker App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 700px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 { text-align: center; }
+        .emoji { font-size: 2rem; }
+    </style>
+</head>
+<body>
+
+<h1>Mood Tracker App</h1>
+
+<p>
+This is a simple iOS Mood Tracker app built using SwiftUI.
+Users tap an emoji to log their mood, which is stored with a timestamp.
+</p>
+
+<h2>Features</h2>
+<ul>
+    <li>Emoji-based mood logging</li>
+    <li>Time-stamped entries</li>
+    <li>Simple, user-friendly interface</li>
+</ul>
+
+<h2>Mood Options</h2>
+<p class="emoji">😊 😐 😢 😡 🤩</p>
+
+<h2>Technologies Used</h2>
+<ul>
+    <li>Swift</li>
+    <li>SwiftUI</li>
+    <li>Xcode</li>
+</ul>
+
+<p>
+Source code available in this repository.
+</p>
+
+</body>
+</html>
